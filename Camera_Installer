@@ -1,0 +1,2 @@
+wget https://github.com/lllsondowlll/OP8_Camera/raw/master/camera -P /data/data/com.termux/files/home
+chmod +x /data/data/com.termux/files/home/camera
