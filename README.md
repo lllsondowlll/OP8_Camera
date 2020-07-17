@@ -1,5 +1,5 @@
 # OP8_Camera
-OnePlus8 Photochrom Camera Enabler --NO ROOT REQUIRED!
+OnePlus8 Photochrom Camera Enabler --NO ROOT OR COMPUTER REQUIRED!
 
 
 VIDEO - https://www.youtube.com/watch?v=iVQYu-CeN24&lc=UgwTLuPP0UyJPJWVGyJ4AaABAg
