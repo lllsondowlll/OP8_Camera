@@ -1,6 +1,8 @@
 # OP8_Camera
 OnePlus8_Photochrom Camera workaround
 
+REQUIRES WIRELESS ADB DEBUGGING TO BE ENABLED
+
 First, run the ADB installer from Termux:
 
 https://github.com/MasterDevX/Termux-ADB
