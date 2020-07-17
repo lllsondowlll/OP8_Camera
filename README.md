@@ -9,6 +9,6 @@ https://github.com/MasterDevX/Termux-ADB
 
 Next, run my installer from Termux:
 
-wget https://github.com/lllsondowlll/OP8_Camera/raw/master/Camera_Installer && bash Camera_installer
+wget https://github.com/lllsondowlll/OP8_Camera/raw/master/Camera_Installer && bash Camera_Installer
 
 Lastly, type ./camera in Termux
