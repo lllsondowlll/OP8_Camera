@@ -6,7 +6,7 @@ OnePlus8_Photochrom Camera enabler
 
 REQUIRES WIRELESS ADB DEBUGGING TO BE ENABLED
 
-First, run the ADB installer by MasterDevX https://github.com/MasterDevX/Termux-ADB from Termux: 
+First, run the ADB installer for Termux by MasterDevX https://github.com/MasterDevX/Termux-ADB from Termux: 
 
 apt update && apt install wget && wget https://github.com/MasterDevX/Termux-ADB/raw/master/InstallTools.sh && bash InstallTools.sh
 
