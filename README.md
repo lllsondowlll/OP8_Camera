@@ -2,6 +2,9 @@
 OnePlus8 Photochrom Camera Enabler --NO ROOT REQUIRED!
 
 
+VIDEO - https://www.youtube.com/watch?v=iVQYu-CeN24&lc=UgwTLuPP0UyJPJWVGyJ4AaABAg
+
+
 [INSTALLATION]
 
 REQUIRES WIRELESS ADB DEBUGGING TO BE ENABLED
