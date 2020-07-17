@@ -1,5 +1,5 @@
 # OP8_Camera
-OnePlus8_Photochrom Camera enabler
+OnePlus8 Photochrom Camera Enabler --NO ROOT REQUIRED!
 
 
 [INSTALLATION]
