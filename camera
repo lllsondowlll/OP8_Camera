@@ -1,4 +1,3 @@
-adb kill-server
 adb disconnect
 adb kill-server
 adb shell "am start -n com.oneplus.factorymode/.camera.manualtest.CameraManualTest"
