@@ -1,7 +1,9 @@
 adb kill-server
 adb disconnect
+adb kill-server
+adb shell "am start -n com.oneplus.factorymode/.camera.manualtest.CameraManualTest"
 adb connect localhost
-adb -s localhost shell "am start -n com.oneplus.factorymode/.camera.manualtest.CameraManualTest"
+adb shell "am start -n com.oneplus.factorymode/.camera.manualtest.CameraManualTest"
 adb -s emulator-5554 shell "am start -n com.oneplus.factorymode/.camera.manualtest.CameraManualTest"
 
 
