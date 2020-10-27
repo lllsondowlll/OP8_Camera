@@ -7,7 +7,7 @@ VIDEO - https://www.youtube.com/watch?v=iVQYu-CeN24&lc=UgwTLuPP0UyJPJWVGyJ4AaABA
 
 [INSTALLATION]
 
-REQUIRES WIRELESS ADB DEBUGGING TO BE ENABLED
+REQUIRES USB DEBUGGING AND WIRELESS ADB DEBUGGING TO BE ENABLED
 
 First, run the ADB installer for Termux by MasterDevX https://github.com/MasterDevX/Termux-ADB from Termux: 
 
