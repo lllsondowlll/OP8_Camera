@@ -1,4 +1,11 @@
 # OP8_Camera
+
+
+
+This repository is no longer maintained. Does not support OOS12
+
+
+
 OnePlus8 Photochrom Camera Enabler --NO ROOT OR COMPUTER REQUIRED!
 
 
